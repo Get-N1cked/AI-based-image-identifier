@@ -1,0 +1,1 @@
+I created this project while following a tutorial by Tech with Tim. I believe this project can be utilised to help the visually impaired to identify objects they won't be able to normally. It makes use of StreamLit for the UI and OpenCv2 and UV for the image processing.
